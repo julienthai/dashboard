@@ -41,7 +41,9 @@
     "creationTimestamp": 1619814167517,
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Dashboard"],
+    "lastLiquibaseTimestamp": 1619814379000
   },
   "git-provider": "GitHub",
   "git-company": "julienthai",

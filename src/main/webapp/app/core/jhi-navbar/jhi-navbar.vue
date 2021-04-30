@@ -29,6 +29,10 @@
             <font-awesome-icon icon="th-list" />
             <span class="no-bold">Entities</span>
           </span>
+          <b-dropdown-item to="/dashboard">
+            <font-awesome-icon icon="asterisk" />
+            <span>Dashboard</span>
+          </b-dropdown-item>
           <!-- jhipster-needle-add-entity-to-menu - JHipster will add entities to the menu here -->
         </b-nav-item-dropdown>
         <b-nav-item-dropdown
